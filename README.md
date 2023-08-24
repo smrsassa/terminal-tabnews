@@ -7,3 +7,9 @@ Visualização dos posts relevantes e recentes diretamente no terminal com uma i
 ![image](https://raw.githubusercontent.com/smrsassa/terminal-tabnews/main/images/content.png)
 
 ![image](https://raw.githubusercontent.com/smrsassa/terminal-tabnews/main/images/postView.png)
+
+## Dependencias
+
+```
+$ pip install -r requirements.txt
+``` 
